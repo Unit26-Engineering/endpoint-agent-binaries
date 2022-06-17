@@ -1,6 +1,6 @@
 <Sysmon schemaversion="4.60">
   <HashAlgorithms>*</HashAlgorithms>
-  <!-- Taylor Test -->
+  <!-- Taylor Test
   <!-- This now also determines the file names of the files preserved (String) -->
   <CheckRevocation>False</CheckRevocation>
   <!-- Setting this to true might impact performance -->
